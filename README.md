@@ -15,3 +15,4 @@ TODO:
 - More hazards
 - Better sprites
 - Sound
+- Add more mechanics to do with the instability of the jetpack, related to the powerups?
