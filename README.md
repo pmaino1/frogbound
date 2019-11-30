@@ -1,6 +1,6 @@
 # frogbound!
 ###### a game by Dylan Telson and Paul Maino! 
-###### Created for Game Off 2019!
+
 
 ---
 
